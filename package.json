@@ -10,6 +10,7 @@
     "typescript",
     "prettier"
   ],
+  "description": "A out of box ESLint config based on Airbnb's ESLint config with TypeScript and Prettier support.",
   "engines": {
     "node": "^10.12.0 || ^12.22.0 || ^14.17.0 || >=16.0.0"
   },
