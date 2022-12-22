@@ -1,8 +1,8 @@
 {
-  "name": "eslint-config-airbnb-ts-pettier",
+  "name": "eslint-config-airbnb-ts-prettier",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:AlexShan2008/eslint-config-airbnb-ts-pettier.git",
+  "repository": "git@github.com:AlexShan2008/eslint-config-airbnb-ts-prettier.git",
   "author": "Alex Shan <shantong.sir@gmail.com>",
   "keywords": [
     "eslint",

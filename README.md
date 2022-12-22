@@ -1,33 +1,33 @@
-# eslint-config-airbnb-ts-pettier
+# eslint-config-airbnb-ts-prettier
 
 This package provides a out of box ESLint config based on Airbnb's ESLint config with TypeScript and Prettier support.
 
-## Install eslint-config-airbnb-ts-pettier
+## Install eslint-config-airbnb-ts-prettier
 
 `yarn`
 
 ```sh
-yarn add "eslint-config-airbnb-ts-pettier" -D
+yarn add "eslint-config-airbnb-ts-prettier" -D
 ```
 
 or `npm`
 
 ```sh
-npm install "eslint-config-airbnb-ts-pettier" -D
+npm install "eslint-config-airbnb-ts-prettier" -D
 ```
 
 or `pnpm`
 
 ```sh
-pnpm install "eslint-config-airbnb-ts-pettier" -D
+pnpm install "eslint-config-airbnb-ts-prettier" -D
 ```
 
 ## Update your `ESLint` config
 
-Add `"extends": "eslint-config-airbnb-ts-pettier"` to your `.eslintrc.*` file. Make sure to put it last, so it gets the chance to override other configs.
+Add `"extends": "eslint-config-airbnb-ts-prettier"` to your `.eslintrc.*` file. Make sure to put it last, so it gets the chance to override other configs.
 
 ```json
-{ "extends": ["eslint-config-airbnb-ts-pettier"] }
+{ "extends": ["eslint-config-airbnb-ts-prettier"] }
 ```
 
 ## VSCode
