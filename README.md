@@ -24,10 +24,10 @@ pnpm install "eslint-config-airbnb-ts-prettier" -D
 
 ## Update your `ESLint` config
 
-Add `"extends": "eslint-config-airbnb-ts-prettier"` to your `.eslintrc.*` file. Make sure to put it last, so it gets the chance to override other configs.
+Add `"extends": "airbnb-ts-prettier"` to your `.eslintrc.*` file. Make sure to put it last, so it gets the chance to override other configs.
 
 ```json
-{ "extends": ["eslint-config-airbnb-ts-prettier"] }
+{ "extends": ["airbnb-ts-prettier"] }
 ```
 
 ## VSCode
