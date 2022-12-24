@@ -7,19 +7,19 @@ This package provides a out of box ESLint config based on Airbnb's ESLint config
 `yarn`
 
 ```sh
-yarn add "eslint-config-airbnb-ts-prettier" -D
+yarn add eslint-config-airbnb-ts-prettier -D
 ```
 
 or `npm`
 
 ```sh
-npm install "eslint-config-airbnb-ts-prettier" -D
+npm install eslint-config-airbnb-ts-prettier -D
 ```
 
 or `pnpm`
 
 ```sh
-pnpm install "eslint-config-airbnb-ts-prettier" -D
+pnpm install eslint-config-airbnb-ts-prettier -D
 ```
 
 ## Update your `ESLint` config
