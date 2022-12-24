@@ -2,7 +2,7 @@
 
 This package provides a out of box ESLint config based on Airbnb's ESLint config with TypeScript and Prettier support.
 
-## Install eslint-config-airbnb-ts-prettier
+## Install
 
 `yarn`
 
@@ -32,9 +32,9 @@ Add `"extends": "airbnb-ts-prettier"` to your `.eslintrc.*` file. Make sure to p
 
 ## VSCode
 
-### 1. Install "Prettier - Code formatter" VSCode plugin
+### 1. Install "Prettier" VSCode plugin - published by "Prettier"
 
-### 2. Set Prettier as Default Code formatter.
+### 2. Set "Prettier" as Default Code formatter.
 
 Go to the VSCode > Preference > Settings
 
