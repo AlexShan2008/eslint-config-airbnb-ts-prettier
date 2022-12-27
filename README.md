@@ -1,6 +1,6 @@
 # eslint-config-airbnb-ts-prettier
 
-This package provides a out of box ESLint config based on Airbnb's ESLint config with TypeScript and Prettier support.
+This package provides a out of the box ESLint config based on Airbnb's ESLint config with TypeScript and Prettier support.
 
 ## Install
 
